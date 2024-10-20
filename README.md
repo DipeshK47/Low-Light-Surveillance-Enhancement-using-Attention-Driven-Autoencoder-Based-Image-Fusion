@@ -7,16 +7,14 @@ This repository contains the code and methodology for enhancing low-light survei
 	•	Introduction
 	•	Problem Statement
 	•	Methodology
+ 	•	Dataset
+  	•	Preprocessing
 	•	Architecture
-	•	Dataset
-	•	Preprocessing
 	•	Training
 	•	Results
 	•	Dependencies
-	•	How to Run
 	•	Future Work
 	•	Contributors
-	•	License
 
 ## Introduction
 
