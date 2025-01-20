@@ -13,6 +13,7 @@ addition_mode = 'Sum'  # 'Sum' & 'Average' & 'l1_norm'
 test_data_path = '/Users/dipeshkumar/Downloads/IVIF-DIDFuse 2/Datasets/LLVI'  # Change testing data path
 
 # Determine the number of files
+
 Test_Image_Number = len(os.listdir(test_data_path))
 
 # Test
